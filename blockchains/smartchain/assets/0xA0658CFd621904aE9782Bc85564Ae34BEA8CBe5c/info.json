@@ -7,7 +7,7 @@
 "symbol": "PEACH",
 "decimals": 18,
 "status": "active",
-"id": "0xA0658CFd621904aE9782Bc85564Ae34BEA8CBe5c"
+"id": "0xA0658CFd621904aE9782Bc85564Ae34BEA8CBe5c",
 "links": [
        {
       "name": "telegram",
@@ -22,7 +22,5 @@
       "url": "https://www.coingecko.com/en/coins/peachcapital-token"
     },    
   ],
-  "tags": [
-    "defi"
-  ]
+"tags": ["defi"]
 }
